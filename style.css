@@ -1,0 +1,49 @@
+body {
+    background-color: #fefefe;
+}
+
+section {
+    background-color: white;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: #1460AA;
+}
+
+h3 {
+    color: purple;
+}
+
+p {
+    color: gray;
+}
+
+#ostatni {
+    color: red;
+}
+
+#przedostatni {
+    color: blue;
+}
+
+.paragraph {
+    color: lime;
+    background-color: black;
+}
+
+nav a {
+    color: red;
+    font-size: 20px;
+}
+
+.paragrafik {
+    color: rgb(224, 46, 91);
+}
+
+#id2 {
+    color: blue;
+}
